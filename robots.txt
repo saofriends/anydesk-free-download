@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://anydesk-free-download.herokuapp.com/host-https-www.moosoft.com/sitemap_index.xml
+Sitemap: https://anydesk-free-download.herokuapp.com/sitemap/sitemap.xml
